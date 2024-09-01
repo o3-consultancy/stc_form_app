@@ -46,12 +46,6 @@ class _WelcomePageState extends State<WelcomePage>
     Locale newLocale = Locale(languageCode, '');
     MyApp.setLocale(context, newLocale);
 
-    // // Navigate to the Personal Details Page
-    // Navigator.push(
-    //   context,
-    //   MaterialPageRoute(builder: (context) => PersonalDetailsPage()),
-    // );
-
     // Use PageRouteBuilder for custom transition
     Navigator.push(
       context,
