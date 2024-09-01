@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "ios": {
+                "default": {
+                    "projectId": "stc-form-app",
+                    "appId": "1:6101765298:ios:6048af61ee924e9d9d4dab",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "stc-form-app",
+                    "configurations": {
+                        "ios": "1:6101765298:ios:6048af61ee924e9d9d4dab"
+                    }
+                }
+            }
+        }
+    }
+}

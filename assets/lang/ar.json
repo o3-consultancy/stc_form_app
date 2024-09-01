@@ -1,0 +1,19 @@
+{
+    "welcome_en": "Welcome",
+    "welcome_ar": "حيـــاك",
+    "survey_form": "صوتك ياخذنا أبعد!!",
+    "please_fill_all_fields": "الرجاء ملء جميع الحقول",
+    "feedback_question_1_hint": "",
+    "feedback_question_2_hint": "",
+    "next": "التالي",
+    "submit": "إرسال",
+    "name": "الاسم",
+    "dob": "تاريخ الميلاد",
+    "mobile": "رقم الجوال",
+    "email": "البريد الإلكتروني",
+    "position": "الوظيفة",
+    "feedback_question_1": "تقدر تقيّم رضاك عن الخدمات الحالية؟",
+    "feedback_question_2": "وش حاب من خدماتنا الحالية أنها تروح أبعد معك للبنك؟",
+    "thank_you": "راح تاخذنا للأمام!!",
+    "submit_error": "لقد حدث خطأ في إرسال النموذج"
+}
