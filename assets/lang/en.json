@@ -1,7 +1,7 @@
 {
     "welcome_en": "Welcome",
     "welcome_ar": "حيـــاك",
-    "survey_form": "Your Opinion Matters!!",
+    "survey_form": "Your Opinion Matters!",
     "please_fill_all_fields": "Please fill in all the fields",
     "feedback_question_1_hint": "",
     "feedback_question_2_hint": "",
@@ -14,6 +14,6 @@
     "position": "Position",
     "feedback_question_1": "Can you tell us how satisfied are you with the current services?",
     "feedback_question_2": "What are the services that you'd like to be moved forward to the bank?",
-    "thank_you": "You'll move us forward!!",
+    "thank_you": "You'll move us forward!",
     "submit_error": "There was an error in submitting the form"
 }
