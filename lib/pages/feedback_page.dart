@@ -21,9 +21,9 @@ class _FeedbackPageState extends State<FeedbackPage> {
 
   // Options for the services, can be localized
   final List<Map<String, String>> _servicesOptions = [
-    {'en': 'Qattah', 'ar': 'قطه'},
+    {'en': 'Qattah', 'ar': 'قطة - الرقمية'},
     {'en': 'Transfer through mobile number', 'ar': 'التحويل برقم الجوال'},
-    {'en': 'Digital cards', 'ar': 'البطاقات الرقميه'},
+    {'en': 'Digital cards', 'ar': 'البطاقات الرقمية'},
     {'en': 'All STC pay services', 'ar': 'جميع الخدمات'},
   ];
 
